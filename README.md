@@ -35,4 +35,4 @@ Para obtener más ayuda sobre la CLI Angular, use `ng help` o visite el [Angular
 <img src="https://github.com/Mijahil31/DemoFranchiSoftFrontEnd/blob/master/8.png">
 
 ## Observacion
-La APi Back del sistema esta en el repositorio <a href="https://github.com/Mijahil31/DemoFranchiSofBackEnd/">DemoFranchiSoftBackEnd</a>
+La APi Back del sistema esta en el repositorio <a href="https://github.com/Mijahil31/DemoFranchiSoftBackEnd">DemoFranchiSoftBackEnd</a>
